@@ -19,6 +19,6 @@ Programming language I use:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangWithU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Maybe check out my blog: https://mytimeflows.life
+Check out my blog: https://mytimeflows.life
 
 Always looking forward to your suggestion:smile:
