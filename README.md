@@ -1,4 +1,4 @@
-# Hello, everyone:wave:
+# Hi, there:wave:
 
 ## Who is this?
 
@@ -6,7 +6,7 @@ A normal university student in CN, mainly focusing on`c++` coding.
 
 Lazy, Sleepy, but thirsty for knowledge:sweat_smile:
 
-If you have some suggestions for me, please email me: plzw8@outlook.com
+If you have some suggestions for me, feel free to email me: plzw8@outlook.com
 
 ## Working status
 
@@ -23,4 +23,4 @@ Check out my blog: https://mytimeflows.life
 
 Always looking forward to your suggestion:smile:
 
-她说时间有颜色，鎏金岁月淌无痕
+夫子步亦步 夫子趋亦趋 夫子驰亦驰 夫子奔逸绝尘 而回瞠若乎后矣
