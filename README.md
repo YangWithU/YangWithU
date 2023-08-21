@@ -12,11 +12,11 @@ If you have some suggestions for me, feel free to email me: plzw8@outlook.com
 
 GitHub stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangWithU&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://profile-hosting-yang-with-u.vercel.app/api?username=YangWithU&show_icons=true&theme=radical)
 
 Programming languages I use:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangWithU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://profile-hosting-yang-with-u.vercel.app/api/top-langs/?username=YangWithU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Check out my blog: https://mytimeflows.life
