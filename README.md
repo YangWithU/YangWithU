@@ -19,7 +19,7 @@ If you have some suggestions for me, feel free to email me: plzw8@outlook.com
 
 **Programming languages I use:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangWithU&layout=compact&theme=radical&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangWithU&layout=compact&theme=radical&hide=javascript,html,CMake,Dockerfile)
 
 
 Check out my blog: https://mytimeflows.life
