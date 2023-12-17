@@ -1,10 +1,10 @@
-# Hi, there:wave:
+# Hi, there :wave:
 
 ## Who is this?
 
 A normal university student in CN, mainly focusing on`c++` coding.
 
-Lazy, Sleepy, but thirsty for knowledge:sweat_smile:
+Lazy, Sleepy, but thirsty for knowledge :sweat_smile:
 
 If you have some suggestions for me, feel free to email me: plzw8@outlook.com
 
@@ -24,7 +24,7 @@ If you have some suggestions for me, feel free to email me: plzw8@outlook.com
 
 Check out my blog: https://mytimeflows.life
 
-Always looking forward to your suggestion:smile:
+Always looking forward to your suggestion :smile:
 
 <details>
   <summary> a word </summary>
